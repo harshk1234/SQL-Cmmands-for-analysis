@@ -24,3 +24,18 @@ Comcast
 Cisco Systems
 Caterpillar
 Campbell Soup
+
+
+IN
+IN This allows you to perform operations similar to using WHERE and =, but for more than one condition.
+
+1)Use the accounts table to find the account name, primary_poc, and sales_rep_id for Walmart, Target, and Nordstrom.
+SELECT name, primary_poc, sales_rep_id
+FROM accounts
+WHERE name IN ('Walmart', 'Target', 'Nordstrom');
+
+Output3 results
+name	primary_poc	sales_rep_id
+Walmart	Tamara Tuma	321500
+Target	Luba Streett	321660
+Nordstrom	Yan Crater	321820
