@@ -5,7 +5,12 @@
 
 ## sql basic
 
+
 ### SQL query perform in this table
+ Commands
+ 1. DDL
+ 2. 
+
 
 ![Screenshot](ss.png)
 
