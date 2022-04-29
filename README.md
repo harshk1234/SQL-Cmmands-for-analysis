@@ -1,16 +1,17 @@
 # SQL Complite Analysis
 
-## ER diagram
-![Screenshot](pp.png)
-
-## sql basic
 
 
 ### SQL query perform in this table
  Commands
  1. DDL
- 2. 
+ 2. DCL
+ 3. DML
+ 4. Join
+ 5. Analytic Fuction (window)
+## ER diagram
 
+![Screenshot](pp.png)
 
 ![Screenshot](ss.png)
 
