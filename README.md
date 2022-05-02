@@ -9,6 +9,8 @@
  3. DML
  4. Join
  5. Analytic Fuction (window)
+ 6. procedure
+ 7. functions
 ## ER diagram
 
 ![Screenshot](pp.png)
